@@ -1,0 +1,12 @@
+{ 
+    "_id" : "5a7c1faadc545eb39c4dfe91", 
+    "jobtemplateid" : null, 
+    "createdatetime" : ISODate("2018-02-08T10:00:10.772+0000"), 
+    "startdatetime" : ISODate("2018-02-08T10:00:20.372+0000"), 
+    "enddatetime" : null, 
+    "executionstatus" : "INPROGRESS", 
+    "processstatus" : "SUCCESS", 
+    "correlationid" : BinData(3, "3aWpvasr0Ui+g16IT4pwmw=="), 
+    "runmode" : "BATCH", 
+    "businessentitycode" : "BDDF"
+}

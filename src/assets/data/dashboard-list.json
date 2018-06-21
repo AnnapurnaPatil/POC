@@ -1,0 +1,283 @@
+{
+  "runId": "5a03fd019133e8ea64cb7d02",
+  "messageCorrelationId": null,
+  "clientId": "BAB5199",
+  "clientType": "Capable",
+  "creationDateTime": "2017-11-09T07:00:25.717Z",
+  "idProofControlResult": {
+    "id": "5a03fd04ae735d6454ce84b3",
+    "runId": "5a03fd019133e8ea64cb7d02",
+    "jobId": null,
+    "messageCorrelationId": null,
+    "clientId": "test1",
+    "clientType": "Capable",
+    "idProofResultId": null,
+    "creationDateTime": "0001-01-01T00:00:00Z",
+    "clientIDProofDocumentStatus": "FAILED",
+    "identityProofs": [
+      {
+        "clientId": "BAB5199",
+        "clientType": "Capable",
+        "idProofDocumentDataId": "5a00334c27aeb7dd004eb57b",
+        "clientContactId": "59fc99923f00679cccfac92e",
+        "creationDate": "2017-11-09T07:00:20.796Z",
+        "documentId": null,
+        "documentName": "BAB5199_T00238_2012_09_07_090191f687639611.pdf",
+        "controlAppliedResults": [
+          {
+            "controlName": "First Name",
+            "controlStatus": "ACCEPT",
+            "feedBack": "No Action",
+            "action": "NO_ACTION",
+            "clientContactValues": {
+              "First Name in Contact": "ouassila"
+            },
+            "clientDocumentValues": {
+              "First Name in  Document": "ouassila"
+            }
+          },
+          {
+            "controlName": "Last Name",
+            "controlStatus": "REJECT",
+            "feedBack": "No Action",
+            "action": "NO_ACTION",
+            "clientContactValues": {
+              "Last Name in Contact": "abdelhamid"
+            },
+            "clientDocumentValues": {
+              "Last Name in  Document": "abdelhamid"
+            }
+          },
+          {
+            "controlName": "Date of Birth",
+            "controlStatus": "ACCEPT",
+            "feedBack": "No Action",
+            "action": "NO_ACTION",
+            "clientContactValues": {
+              "First Name in Contact": "8/20/1963"
+            },
+            "clientDocumentValues": {
+              "First Name in  Document": "20/08/1963"
+            }
+          },
+          {
+            "controlName": "Place of Birth",
+            "controlStatus": "ACCEPT",
+            "feedBack": "No Action",
+            "action": "NO_ACTION",
+            "clientContactValues": {
+              "Place of Birth in Contact": "99352"
+            },
+            "clientDocumentValues": {
+              "Place of Birth in  Document": "ANNABA"
+            }
+          },
+          {
+            "controlName": "Nationality",
+            "controlStatus": "ACCEPT_WITH_CONDITION",
+            "feedBack": "Please review and update Customers  Nationality in Contact",
+            "action": "UPDATE_ACTION",
+            "clientContactValues": {
+              "Place of Birth in Contact": "?"
+            },
+            "clientDocumentValues": {
+              "Place of Birth in  Document": "fra"
+            }
+          },
+          {
+            "controlName": "Picture Presence",
+            "controlStatus": "ACCEPT",
+            "feedBack": "No Action",
+            "action": "NO_ACTION",
+            "clientContactValues": {},
+            "clientDocumentValues": {}
+          }
+        ],
+        "documentStatus": "PASSED"
+      }
+    ]
+  },
+  "addressProofControlResult": {
+    "id": "5a03fd05a7efaddc38c17a14",
+    "runId": "5a03fd019133e8ea64cb7d02",
+    "messageCorrelationId": null,
+    "clientId": "BAB5199",
+    "clientContactId": null,
+    "clientType": null,
+    "clientAddressProofDocumentStatus": "FAILED",
+    "comments": "",
+    "creationDateTime": "0001-01-01T00:00:00Z",
+    "addressProofs": [
+      {
+        "clientId": "BAB5199",
+        "clienType": null,
+        "addressProofdocumentdataid": "59fc997ed913497a74b6815b",
+        "creationDate": "2017-11-09T07:00:21.334Z",
+        "pdfDocumentId": "BAB5199_T00238_2012_09_07_090191f687639611.pdf",
+        "controlAppliedResults": [
+          {
+            "controlName": "Full Name",
+            "controlStatus": "REJECT",
+            "feedback": "KYC Fail on Address Proof -  _Full Name in Contact",
+            "action": "NO_ACTION",
+            "clientContactValues": {
+              "FullName in Contact": "OUASSILAABDELHAMID"
+            },
+            "clientDocumentValues": {
+              "FullName in Document": "M MME GRIVEAU MAGAOOUX S"
+            }
+          },
+          {
+            "controlName": "StreetAddress",
+            "controlStatus": "REJECT",
+            "feedback": "KYC Fail on Address Proof -  _StreetAddress in Contact",
+            "action": "NO_ACTION",
+            "clientContactValues": {
+              "StreetAddress in Contact": "1 RUE DES OLYMPIADES"
+            },
+            "clientDocumentValues": {
+              "StreetAddress in Document": "28 RUE LOUIS DESAUTELS"
+            }
+          },
+          {
+            "controlName": "Postal Code",
+            "controlStatus": "REJECT",
+            "feedback": "KYC Fail on Address Proof -  _Postal Code in Contact",
+            "action": "NO_ACTION",
+            "clientContactValues": {
+              "PostalCode in Contact": "13800"
+            },
+            "clientDocumentValues": {
+              "PostalCode in Document": "71230"
+            }
+          },
+          {
+            "controlName": "City",
+            "controlStatus": "REJECT",
+            "feedback": "KYC Fail on Address Proof -  _City in Contact",
+            "action": "NO_ACTION",
+            "clientContactValues": {
+              "City in Contact": "ISTRES"
+            },
+            "clientDocumentValues": {
+              "City in Document": "COLOMBES1"
+            }
+          }
+        ],
+        "documentStatus": "FAILED",
+        "addressId": "0b1551c2-a4a2-49bf-92ed-7d5d7b487211"
+      },
+      {
+        "clientId": "BAB5199",
+        "clienType": null,
+        "addressProofdocumentdataid": "59fc997ed913497a74b6815b",
+        "creationDate": "2017-11-09T07:00:21.335Z",
+        "pdfDocumentId": "BAB5199_T00238_2012_09_07_090191f687639611.pdf",
+        "controlAppliedResults": [
+          {
+            "controlName": "Full Name",
+            "controlStatus": "REJECT",
+            "feedback": "KYC Fail on Address Proof -  _Full Name in Contact",
+            "action": "NO_ACTION",
+            "clientContactValues": {
+              "FullName in Contact": "OUASSILAABDELHAMID"
+            },
+            "clientDocumentValues": {
+              "FullName in Document": "M MME GRIVEAU MAGAOOUX S"
+            }
+          },
+          {
+            "controlName": "StreetAddress",
+            "controlStatus": "REJECT",
+            "feedback": "KYC Fail on Address Proof -  _StreetAddress in Contact",
+            "action": "NO_ACTION",
+            "clientContactValues": {
+              "StreetAddress in Contact": "1 RUE DES OLYMPIADES"
+            },
+            "clientDocumentValues": {
+              "StreetAddress in Document": "28 RUE LOUIS DESAUTELS"
+            }
+          },
+          {
+            "controlName": "Postal Code",
+            "controlStatus": "REJECT",
+            "feedback": "KYC Fail on Address Proof -  _Postal Code in Contact",
+            "action": "NO_ACTION",
+            "clientContactValues": {
+              "PostalCode in Contact": "13800"
+            },
+            "clientDocumentValues": {
+              "PostalCode in Document": "71230"
+            }
+          },
+          {
+            "controlName": "City",
+            "controlStatus": "REJECT",
+            "feedback": "KYC Fail on Address Proof -  _City in Contact",
+            "action": "NO_ACTION",
+            "clientContactValues": {
+              "City in Contact": "ISTRES"
+            },
+            "clientDocumentValues": {
+              "City in Document": "COLOMBES1"
+            }
+          }
+        ],
+        "documentStatus": "FAILED",
+        "addressId": "6c826f0f-4cc4-4d5a-a9c7-1a4ed467ba58"
+      }
+    ]
+  },
+  "clientKycStatusResult": {
+    "kycStatus": "FAILED",
+    "clientId": "BAB5199",
+    "runId": "5a03fd019133e8ea64cb7d02",
+    "documentFamilyResults": [
+      {
+        "documentFamily": null,
+        "status": "PASSED"
+      },
+      {
+        "documentFamily": null,
+        "status": null
+      },
+      {
+        "documentFamily": null,
+        "status": "FAILED"
+      }
+    ],
+    "clientMinimalDocument": {
+      "runId": "5a03fd019133e8ea64cb7d02",
+      "clientID": "BAB5199",
+      "clientType": "Major Capable",
+      "clientMinimalDocuments": [
+        {
+          "documentFamily": null,
+          "documentType": "Proof of Identity",
+          "available": false
+        },
+        {
+          "documentFamily": null,
+          "documentType": "Proof of Address",
+          "available": false
+        },
+        {
+          "documentFamily": null,
+          "documentType": "Proof of Income",
+          "available": false
+        },
+        {
+          "documentFamily": null,
+          "documentType": "Power of Attorney",
+          "available": false
+        },
+        {
+          "documentFamily": null,
+          "documentType": "CRS",
+          "available": false
+        }
+      ]
+    }
+  },
+  "id": "5a03fd0993e6d85abc9a0e69"
+}

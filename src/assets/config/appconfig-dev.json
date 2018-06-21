@@ -1,0 +1,60 @@
+{
+	"baseUrl": [
+    {
+      "Name": "ReferenceService",
+      "Url": "http://dmle2k01.dns21.socgen:19081/instakyc/Reference.Service/api/v1/Reference/"      
+    },
+    {
+      "Name": "ContactService",
+      "Url": "http://dmle2k01.dns21.socgen:19081/instakyc/Contact.Service/api/v1/Contact/"
+    },
+    {
+      "Name": "DocumentDataService",
+      "Url": "http://dmle2k01.dns21.socgen:19081/instakyc/DocumentData.Service/api/v1/DocumentDataService/"
+    },
+    {
+      "Name": "DocumentService",
+      "Url": "http://dmle2k01.dns21.socgen:19081/instakyc/Document.Service/api/v1/Document/"
+    },
+    {
+      "Name": "IDProofService",
+      "Url": "http://dmle2k01.dns21.socgen:19081/instakyc/IdProof.Service/api/v1/IDProof/"
+    },
+    {
+      "Name": "AddressProofService",
+      "Url": "http://dmle2k01.dns21.socgen:19081/instakyc/AddressProof.Service/api/v1/AddressProof/"
+    },
+    {
+      "Name": "IncomeProofService",
+      "Url": "http://dmle2k01.dns21.socgen:19081/instakyc/IncomeProof.Service/api/v1/IncomeProof/"
+    },
+    {
+      "Name": "IdentityService",
+      "Url": "http://dmle2k01.dns21.socgen:19081/instakyc/IIdentity.Service/api/v1/IdentityService/"
+    },
+    {
+      "Name": "ClientService",
+      "Url": "http://dmle2k01.dns21.socgen:19081/instakyc/ClientService.Service/api/v1/ClientService/"
+    },
+    {
+      "Name": "JobService",
+      "Url": "http://dmle2k01.dns21.socgen:19081/instakyc/ClientService.Service/api/v1/JobService/"
+    },
+    {
+      "Name": "PresentationService",
+      "Url": "http://dmle2k01.dns21.socgen:19081/instakyc/PresentationService.Service/api/v1/PresentationService/"
+    },
+     {
+      "Name": "RoleService",
+      "Url": "http://dmle2k01.dns21.socgen:19081/instakyc/RoleService.Service/api/v1/RoleService/"
+    },
+    {
+      "Name": "MenuService",
+      "Url": "http://dmle2k01.dns21.socgen:19081/instakyc/Menuervice.Service/api/v1/MenuService/"
+    }
+     {
+      "Name": "UserService",
+      "Url": "http://dmle2k01.dns21.socgen:19081/instakyc/UserService.Service/api/v1/UserService/"
+    }
+  ]
+}

@@ -1,0 +1,450 @@
+{  
+   "runId":"5a5342a0c6383f231cbc44f1",
+   "messageCorrelationId":null,
+   "clientId":"10444151",
+   "clientType":"Serbian_Citizen",
+   "creationDateTime":"2018-01-12T07:34:11.665Z",
+   "idProofControlResult":{  
+      "id":"5a5343093dcebdd330671281",
+      "runId":"5a5342a0c6383f231cbc44f1",
+      "jobId":null,
+      "messageCorrelationId":null,
+      "clientId":"10444151",
+      "clientType":"Serbian_Citizen",
+      "idProofResultId":null,
+      "creationDateTime":"2018-01-12T07:34:11.665Z",
+      "clientIDProofDocumentStatus":"ACCEPT_WITH_CONDITION",
+      "comments":"",
+      "identityProofs":[  
+         {  
+            "clientId":"10444151",
+            "clientType":"Serbian_Citizen",
+            "idProofDocumentDataId":null,
+            "clientContactId":"5a301396d07f666f4855637e",
+            "creationDate":"2018-01-08T10:08:09.155Z",
+            "documentId":"084586f6745dedf0",
+            "documentName":"10444151##1378##01##084586f6745dedf0.pdf",
+            "controlAppliedResults":[  
+               {  
+                  "controlName":"First Name",
+                  "controlStatus":"ACCEPT",
+                  "feedBack":"",
+                  "action":"NO_ACTION",
+                  "clientContactValues":{  
+                     "First Name in Contact":""
+                  },
+                  "clientDocumentValues":{  
+                     "First Name in  Document":""
+                  }
+               },
+               {  
+                  "controlName":"Last Name",
+                  "controlStatus":"REJECT",
+                  "feedBack":"",
+                  "action":"NO_ACTION",
+                  "clientContactValues":{  
+                     "First Name in Contact":""
+                  },
+                  "clientDocumentValues":{  
+                     "First Name in  Document":""
+                  }
+               },
+               {  
+                  "controlName":"ID number",
+                  "controlStatus":"ACCEPT",
+                  "feedBack":"",
+                  "action":"NO_ACTION",
+                  "clientContactValues":{  
+                     "First Name in Contact":""
+                  },
+                  "clientDocumentValues":{  
+                     "First Name in  Document":""
+                  }
+               },
+               {  
+                  "controlName":"PIN number",
+                  "controlStatus":"REJECT",
+                  "feedBack":"",
+                  "action":"NO_ACTION",
+                  "clientContactValues":{  
+                     "First Name in Contact":""
+                  },
+                  "clientDocumentValues":{  
+                     "First Name in  Document":""
+                  }
+               },
+               {  
+                  "controlName":"Address",
+                  "controlStatus":"ACCEPT",
+                  "feedBack":"",
+                  "action":"NO_ACTION",
+                  "clientContactValues":{  
+                     "First Name in Contact":""
+                  },
+                  "clientDocumentValues":{  
+                     "First Name in  Document":""
+                  }
+               },
+               {  
+                  "controlName":"Expiry Date",
+                  "controlStatus":"ACCEPT",
+                  "feedBack":"",
+                  "action":"NO_ACTION",
+                  "clientContactValues":{  
+                     "First Name in Contact":""
+                  },
+                  "clientDocumentValues":{  
+                     "First Name in  Document":""
+                  }
+               },
+               {  
+                  "controlName":"Expiry Date Validity",
+                  "controlStatus":"ACCEPT",
+                  "feedBack":"",
+                  "action":"NO_ACTION",
+                  "clientContactValues":{  
+                     "First Name in Contact":""
+                  },
+                  "clientDocumentValues":{  
+                     "First Name in  Document":""
+                  }
+               }
+            ],
+            "documentStatus":"ACCEPT_WITH_CONDITION",
+            "markedBestDocument":"YES"
+         },
+         {  
+            "clientId":"10444151",
+            "clientType":"Serbian_Citizen",
+            "idProofDocumentDataId":null,
+            "clientContactId":"5a301396d07f666f4855637e",
+            "creationDate":"2018-01-08T10:08:09.155Z",
+            "documentId":"090191f6806dedf0",
+            "documentName":"10444151##1378##01##090191f6806dedf0.pdf",
+            "controlAppliedResults":[  
+               {  
+                  "controlName":"First Name",
+                  "controlStatus":"REJECT",
+                  "feedBack":"",
+                  "action":"NO_ACTION",
+                  "clientContactValues":{  
+                     "First Name in Contact":""
+                  },
+                  "clientDocumentValues":{  
+                     "First Name in  Document":""
+                  }
+               },
+               {  
+                  "controlName":"Last Name",
+                  "controlStatus":"REJECT",
+                  "feedBack":"",
+                  "action":"NO_ACTION",
+                  "clientContactValues":{  
+                     "First Name in Contact":""
+                  },
+                  "clientDocumentValues":{  
+                     "First Name in  Document":""
+                  }
+               },
+               {  
+                  "controlName":"ID number",
+                  "controlStatus":"REJECT",
+                  "feedBack":"",
+                  "action":"NO_ACTION",
+                  "clientContactValues":{  
+                     "First Name in Contact":""
+                  },
+                  "clientDocumentValues":{  
+                     "First Name in  Document":""
+                  }
+               },
+               {  
+                  "controlName":"PIN number",
+                  "controlStatus":"REJECT",
+                  "feedBack":"",
+                  "action":"NO_ACTION",
+                  "clientContactValues":{  
+                     "First Name in Contact":""
+                  },
+                  "clientDocumentValues":{  
+                     "First Name in  Document":""
+                  }
+               },
+               {  
+                  "controlName":"Address",
+                  "controlStatus":"ACCEPT",
+                  "feedBack":"",
+                  "action":"NO_ACTION",
+                  "clientContactValues":{  
+                     "First Name in Contact":""
+                  },
+                  "clientDocumentValues":{  
+                     "First Name in  Document":""
+                  }
+               },
+               {  
+                  "controlName":"Expiry Date",
+                  "controlStatus":"ACCEPT",
+                  "feedBack":"",
+                  "action":"NO_ACTION",
+                  "clientContactValues":{  
+                     "First Name in Contact":""
+                  },
+                  "clientDocumentValues":{  
+                     "First Name in  Document":""
+                  }
+               },
+               {  
+                  "controlName":"Expiry Date Validity",
+                  "controlStatus":"ACCEPT",
+                  "feedBack":"",
+                  "action":"NO_ACTION",
+                  "clientContactValues":{  
+                     "First Name in Contact":""
+                  },
+                  "clientDocumentValues":{  
+                     "First Name in  Document":""
+                  }
+               }
+            ],
+            "documentStatus":"REJECT",
+            "markedBestDocument":"NO"
+         }
+      ]
+   },
+   "kycformControlResult":{  
+      "id":"5a5343093dcebdd330671281",
+      "runId":"5a5342a0c6383f231cbc44f1",
+      "jobId":null,
+      "messageCorrelationId":null,
+      "clientId":"10444151",
+      "clientType":"Serbian_Citizen",
+      "kycformResultId":null,
+      "creationDateTime":"0001-01-01T00:00:00Z",
+      "clientKYCFormDocumentStatus":"ACCEPT",
+      "comments":"",
+      "kycforms":[  
+         {  
+            "clientId":"10444151",
+            "clientType":"Serbian_Citizen",
+            "kycformDocumentDataId":null,
+            "clientContactId":"5a301396d07f666f4855637e",
+            "creationDate":"2018-01-08T10:08:09.155Z",
+            "documentId":"090191f6806dedf0",
+            "documentName":"BCR8664_T00239_2009_09_03_090191f6806dedf0.pdf",
+            "controlAppliedResults":[  
+               {  
+                  "controlName":"AML Segmentation",
+                  "controlStatus":"ACCEPT",
+                  "feedBack":"",
+                  "action":"NO_ACTION",
+                  "clientContactValues":{  
+                     "First Name in Contact":""
+                  },
+                  "clientDocumentValues":{  
+                     "First Name in  Document":""
+                  }
+               },
+               {  
+                  "controlName":"KYC Date",
+                  "controlStatus":"ACCEPT",
+                  "feedBack":"",
+                  "action":"NO_ACTION",
+                  "clientContactValues":{  
+                     "First Name in Contact":""
+                  },
+                  "clientDocumentValues":{  
+                     "First Name in  Document":""
+                  }
+               },
+               {  
+                  "controlName":"PIN",
+                  "controlStatus":"NOT_CHECKED",
+                  "feedBack":"",
+                  "action":"NO_ACTION",
+                  "clientContactValues":{  
+                     "First Name in Contact":""
+                  },
+                  "clientDocumentValues":{  
+                     "First Name in  Document":""
+                  }
+               },
+               {  
+                  "controlName":"KYC Date validity",
+                  "controlStatus":"ACCEPT",
+                  "feedBack":"",
+                  "action":"NO_ACTION",
+                  "clientContactValues":{  
+                     "First Name in Contact":""
+                  },
+                  "clientDocumentValues":{  
+                     "First Name in  Document":""
+                  }
+               }
+            ],
+            "documentStatus":"ACCEPT",
+            "markedBestDocument":"YES"
+         }
+      ]
+   },
+   "signatureSpecimenControlResult":{  
+      "id":"5a5343093dcebdd330671281",
+      "runId":"5a5342a0c6383f231cbc44f1",
+      "jobId":null,
+      "messageCorrelationId":null,
+      "clientId":"10444151",
+      "clientType":"Serbian_Citizen",
+      "idProofResultId":null,
+      "creationDateTime":"0001-01-01T00:00:00Z",
+      "clientSignatureSpecimenDocumentStatus":"ACCEPT_WITH_CONDITION",
+      "comments":"",
+      "signatureSpecimens":[  
+         {  
+            "clientId":"10444151",
+            "clientType":"Serbian_Citizen",
+            "signaturespecimenDocumentDataId":null,
+            "clientContactId":"5a301396d07f666f4855637e",
+            "creationDate":"2018-01-08T10:08:09.155Z",
+            "documentId":"090191f6806dedf0",
+            "documentName":"BCR8664_T00239_2009_09_03_090191f6806dedf0.pdf",
+            "controlAppliedResults":[  
+               {  
+                  "controlName":"ID",
+                  "controlStatus":"REJECT",
+                  "feedBack":"",
+                  "action":"NO_ACTION",
+                  "clientContactValues":{  
+                     "First Name in Contact":""
+                  },
+                  "clientDocumentValues":{  
+                     "First Name in  Document":""
+                  }
+               },
+               {  
+                  "controlName":"Signature",
+                  "controlStatus":"ACCEPT",
+                  "feedBack":"",
+                  "action":"NO_ACTION",
+                  "clientContactValues":{  
+                     "First Name in Contact":""
+                  },
+                  "clientDocumentValues":{  
+                     "First Name in  Document":""
+                  }
+               }
+            ],
+            "documentStatus":"REJECT",
+            "markedBestDocument":"YES"
+         }
+      ]
+   },
+   "interrogationControlResult":{  
+      "id":"5a5343093dcebdd330671281",
+      "runId":"5a5342a0c6383f231cbc44f1",
+      "jobId":null,
+      "messageCorrelationId":null,
+      "clientId":"10444151",
+      "clientType":"Serbian_Citizen",
+      "idProofResultId":null,
+      "creationDateTime":"0001-01-01T00:00:00Z",
+      "clientInterrogationDocumentStatus":"ACCEPT_WITH_CONDITION",
+      "comments":"",
+      "interrogations":[  
+         {  
+            "clientId":"10444151",
+            "clientType":"Serbian_Citizen",
+            "signaturespecimenDocumentDataId":null,
+            "clientContactId":"5a301396d07f666f4855637e",
+            "creationDate":"2018-01-08T10:08:09.155Z",
+            "documentId":"090191f6806dedf0",
+            "documentName":"BCR8664_T00239_2009_09_03_090191f6806dedf0.pdf",
+            "controlAppliedResults":[  
+               {  
+                  "controlName":"RISK",
+                  "controlStatus":"ACCEPT",
+                  "feedBack":"",
+                  "action":"NO_ACTION",
+                  "clientContactValues":{  
+                     "First Name in Contact":""
+                  },
+                  "clientDocumentValues":{  
+                     "First Name in  Document":""
+                  }
+               },
+               {  
+                  "controlName":"OCR",
+                  "controlStatus":"ACCEPT",
+                  "feedBack":"",
+                  "action":"NO_ACTION",
+                  "clientContactValues":{  
+                     "First Name in Contact":""
+                  },
+                  "clientDocumentValues":{  
+                     "First Name in  Document":""
+                  }
+               },
+               {  
+                  "controlName":"AML",
+                  "controlStatus":"ACCEPT",
+                  "feedBack":"",
+                  "action":"NO_ACTION",
+                  "clientContactValues":{  
+                     "First Name in Contact":""
+                  },
+                  "clientDocumentValues":{  
+                     "First Name in  Document":""
+                  }
+               }
+            ],
+            "documentStatus":"ACCEPT",
+            "markedBestDocument":"YES"
+         }
+      ]
+   },
+   "clientKycStatusResult":{  
+      "kycStatus":"FAILED",
+      "clientId":"10444151",
+      "runId":"5a5342a0c6383f231cbc44fd",
+      "documentFamilyResults":[  
+         {  
+            "documentFamily":null,
+            "status":"FAILED"
+         },
+         {  
+            "documentFamily":null,
+            "status":"FAILED"
+         }
+      ],
+      "clientMinimalDocument":{  
+         "runId":"5a5342a0c6383f231cbc44fd",
+         "clientID":"10444151",
+         "clientType":"Serbian_Citizen",
+         "clientMinimalDocuments":[  
+            {  
+               "documentFamily":null,
+               "documentType":"ID Proof",
+               "isPresent":"Yes",
+               "available":true
+            },
+            {  
+               "documentFamily":null,
+               "documentType":"KYC Form",
+               "isPresent":"Yes",
+               "available":true
+            },
+            {  
+               "documentFamily":null,
+               "documentType":"Signature Specimen",
+               "isPresent":"Yes",
+               "available":true
+            },
+            {  
+               "documentFamily":null,
+               "documentType":"Contract",
+               "isPresent":"Yes",
+               "available":true
+            }
+         ]
+      }
+   }
+}

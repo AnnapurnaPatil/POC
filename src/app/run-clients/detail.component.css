@@ -1,0 +1,14 @@
+.btn.btn-primary {
+	color: #151414;
+	background: #f0f3f5;
+	border-color: #101010;
+}
+
+
+#tblClientTypes tbody > tr > td {
+	cursor: pointer;
+}
+
+a {
+	cursor: pointer;
+}

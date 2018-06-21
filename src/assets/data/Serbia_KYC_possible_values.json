@@ -1,0 +1,9 @@
+{"clientType": {"Serbian_Citizen", "Minor_Client", 
+				"Client_has_representatives", "Foreign_Client"}}
+{"client_status": {"ACCEPT","ACCEPT_WITH_CONDITION","REJECT", "RISK", "NOT_CHECKED"}}		
+{"documentStatus": {"ACCEPT", "ACCEPT_WITH_CONDITION", "REJECT", "NOT_CHECKED"}
+{"individualcontrolstatus": {"ACCEPT", "REJECT", "NOT_CHECKED"}}
+ 
+ 
+ 
+ 
